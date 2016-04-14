@@ -1,0 +1,18 @@
+{
+  "name": "localStorageDB",
+  "authors": [
+    "Henry Zou <zouhenry@gmail.com>"
+  ],
+  "description": "REST API with localstorage data store",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://henryzou.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
