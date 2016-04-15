@@ -1,5 +1,6 @@
 {
-  "name": "localStorageDB",
+  "name": "local-rest",
+  "version": "0.0.1",
   "authors": [
     "Henry Zou <zouhenry@gmail.com>"
   ],
@@ -11,8 +12,13 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
+    "src/bower_components",
     "test",
-    "tests"
-  ]
+    "tests",
+    ".idea"
+  ],
+  "dependencies": {
+    "lodash": "^4.11.1",
+    "angular": "^1.5.4"
+  }
 }
